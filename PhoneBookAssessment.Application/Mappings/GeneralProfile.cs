@@ -8,7 +8,7 @@ namespace PhoneBookAssessment.Application.Mappings
     {
         public GeneralProfile()
         {
-            CreateMap<PhoneBook, PhoneBookViewModel>().ReverseMap();
+            CreateMap<PhoneBook, PhoneBookViewModel>().ReverseMap(); 
         }
     }
 }

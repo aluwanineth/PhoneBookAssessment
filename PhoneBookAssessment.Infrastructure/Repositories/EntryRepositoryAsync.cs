@@ -14,7 +14,7 @@ namespace PhoneBookAssessment.Infrastructure.Repositories
         {
             var entry = new Entry(name, phoneNumber, phoneBookId);
             await AddAsync(entry);
-            return new Response<string>(string.Format("Phone entry created successffuly Id: {0}", entry.Id));
+            return new Response<string>(entry.Id.ToString(),string.Format("Phone entry created successfully Id: {0}", entry.Id));
         }
     }
 }

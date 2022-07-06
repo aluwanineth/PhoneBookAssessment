@@ -69,3 +69,14 @@ C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessme
 C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\obj\Debug\net5.0\ref\PhoneBookAssessment.WebApi.dll
 C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\obj\Debug\net5.0\PhoneBookAssessment.WebApi.pdb
 C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\obj\Debug\net5.0\PhoneBookAssessment.WebApi.genruntimeconfig.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\PhoneBookAssessment.WebApi.xml
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\nlog.config
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\NLog.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.WebApi\bin\Debug\net5.0\NLog.Web.AspNetCore.dll

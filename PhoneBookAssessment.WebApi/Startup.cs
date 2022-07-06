@@ -7,6 +7,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using PhoneBookAssessment.Application;
+using PhoneBookAssessment.Infrastructure;
+using PhoneBookAssessment.WebApi.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,12 +29,12 @@ namespace PhoneBookAssessment.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddApplicationLayer();
+            services.AddInfrastructure(Configuration);
+            services.AddSwaggerExtension();
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "PhoneBookAssessment.WebApi", Version = "v1" });
-            });
+            services.AddApiVersioningExtension();
+            services.AddHealthChecks();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -40,8 +43,6 @@ namespace PhoneBookAssessment.WebApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PhoneBookAssessment.WebApi v1"));
             }
 
             app.UseHttpsRedirection();
@@ -49,6 +50,8 @@ namespace PhoneBookAssessment.WebApi
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseSwaggerExtension();
+            app.UseHealthChecks("/health");
 
             app.UseEndpoints(endpoints =>
             {

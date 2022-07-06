@@ -20,7 +20,7 @@ namespace PhoneBookAssessment.Infrastructure.Repositories
         {
             var _phoneBook = new PhoneBook(name);
             await AddAsync(_phoneBook);
-            return new Response<string>(string.Format("Phone book created successffuly Id: {0}",_phoneBook.Id));
+            return new Response<string>(_phoneBook.Id.ToString(),string.Format("Phone book created successfully Id: {0}",_phoneBook.Id));
         }
 
         public async Task<IEnumerable<PhoneBookViewModel>> GetPhoneBooks()

@@ -11,7 +11,7 @@ namespace PhoneBookAssessment.Infrastructure
 {
     public static class ServiceExtensions
     {
-        public static void AddPersistenceInfrastructure(this IServiceCollection services, IConfiguration configuration)
+        public static void AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             
             services.AddDbContext<ApplicationDbContext>(options =>
@@ -19,7 +19,7 @@ namespace PhoneBookAssessment.Infrastructure
                 configuration.GetConnectionString("DefaultConnection"),
                 b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
             
-            services.AddTransient(typeof(IGenericRepositoryAsync<>), typeof(GenericRepositoryAsync<>));
+            //services.AddTransient(typeof(IGenericRepositoryAsync<>), typeof(GenericRepositoryAsync<>));
             services.AddTransient<IPhoneBookRepositoryAsync, PhoneBookRepositoryAsync>();
             services.AddTransient<IEntryRepositoryAsync, EntryRepositoryAsync>();
         }
