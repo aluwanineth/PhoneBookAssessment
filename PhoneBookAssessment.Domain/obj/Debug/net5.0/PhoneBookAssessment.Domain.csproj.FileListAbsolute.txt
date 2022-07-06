@@ -1,0 +1,12 @@
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\bin\Debug\net5.0\PhoneBookAssessment.Domain.deps.json
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\bin\Debug\net5.0\PhoneBookAssessment.Domain.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\bin\Debug\net5.0\ref\PhoneBookAssessment.Domain.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\bin\Debug\net5.0\PhoneBookAssessment.Domain.pdb
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\PhoneBookAssessment.Domain.csproj.AssemblyReference.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\PhoneBookAssessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\PhoneBookAssessment.Domain.AssemblyInfoInputs.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\PhoneBookAssessment.Domain.AssemblyInfo.cs
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\PhoneBookAssessment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\PhoneBookAssessment.Domain.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\ref\PhoneBookAssessment.Domain.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Domain\obj\Debug\net5.0\PhoneBookAssessment.Domain.pdb

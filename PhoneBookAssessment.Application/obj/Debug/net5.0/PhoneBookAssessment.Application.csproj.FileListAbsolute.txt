@@ -1,0 +1,15 @@
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\bin\Debug\net5.0\PhoneBookAssessment.Application.deps.json
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\bin\Debug\net5.0\PhoneBookAssessment.Application.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\bin\Debug\net5.0\ref\PhoneBookAssessment.Application.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\bin\Debug\net5.0\PhoneBookAssessment.Application.pdb
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\bin\Debug\net5.0\PhoneBookAssessment.Domain.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\bin\Debug\net5.0\PhoneBookAssessment.Domain.pdb
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.csproj.AssemblyReference.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.AssemblyInfoInputs.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.AssemblyInfo.cs
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.csproj.CoreCompileInputs.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.csproj.CopyComplete
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\ref\PhoneBookAssessment.Application.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Application\obj\Debug\net5.0\PhoneBookAssessment.Application.pdb

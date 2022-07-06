@@ -1,0 +1,17 @@
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\PhoneBookAssessment.Infrastructure.deps.json
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\PhoneBookAssessment.Infrastructure.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\ref\PhoneBookAssessment.Infrastructure.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\PhoneBookAssessment.Infrastructure.pdb
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\PhoneBookAssessment.Application.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\PhoneBookAssessment.Domain.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\PhoneBookAssessment.Application.pdb
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\bin\Debug\net5.0\PhoneBookAssessment.Domain.pdb
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.AssemblyInfo.cs
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.csproj.CopyComplete
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\ref\PhoneBookAssessment.Infrastructure.dll
+C:\Users\aluwani.nethavhakone\source\repos\PhoneBookAssessment\PhoneBookAssessment.Infrastructure\obj\Debug\net5.0\PhoneBookAssessment.Infrastructure.pdb

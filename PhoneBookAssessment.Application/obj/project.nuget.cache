@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "77PqBeCpYCyBHgI+4K0LRXyZYkaNbkQHOm1osh2rK2tv2ERwPbXJ6J6cJ/qmsA17eH/HEgmzzQtgrdkpUy+Brg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aluwani.nethavhakone\\source\\repos\\PhoneBookAssessment\\PhoneBookAssessment.Application\\PhoneBookAssessment.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluwani.nethavhakone\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\aluwani.nethavhakone\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\aluwani.nethavhakone\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\aluwani.nethavhakone\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\aluwani.nethavhakone\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\aluwani.nethavhakone\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\aluwani.nethavhakone\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

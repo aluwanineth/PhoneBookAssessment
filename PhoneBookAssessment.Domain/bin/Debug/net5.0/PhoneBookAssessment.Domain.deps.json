@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PhoneBookAssessment.Domain/1.0.0": {
+        "runtime": {
+          "PhoneBookAssessment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBookAssessment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
